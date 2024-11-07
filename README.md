@@ -1,9 +1,9 @@
 # Superchip Optimization
 
-#Overview
+## Overview
 This project optimizes Superchip's production and distribution operations across five manufacturing facilities in Virginia, each producing up to 30 types of computer chips. The optimization model aims to minimize costs associated with both production and shipping, providing strategic recommendations for the next fiscal year. It uses Python and the Gurobi optimizer to evaluate cost-effective production and distribution strategies.
 
-#Problem Statement
+## Problem Statement
 Superchip faces high costs in both production and distribution due to differing production capacities and equipment across facilities, and variable shipping distances. This optimization model addresses key business questions:
 - Recommended production policies for cost savings.
 - Facility prioritization for capacity expansion.
